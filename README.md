@@ -1,1 +1,1 @@
-# My calculator made using python
+# My calculator made using python and tkinter
